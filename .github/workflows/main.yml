@@ -1,4 +1,4 @@
-##
+#
 name: Checkmarx AST Github Action
 on:
   push:
